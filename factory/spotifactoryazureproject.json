@@ -1,0 +1,9 @@
+{
+	"name": "spotifactoryazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b412777f-57c0-467c-bb9b-91e8c73a0b51",
+		"tenantId": "b3a7226e-c7ba-481f-8b23-8666575820ed"
+	}
+}
